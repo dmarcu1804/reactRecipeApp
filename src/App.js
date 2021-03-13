@@ -4,7 +4,7 @@ import Recipe from './Recipe';
 
 
 const App = () =>{
-  const API_KEY = "234bc8af840f47c89ed2b61f22326c44";
+  const API_KEY = "YOUR API KEY";
   //const exampleReq = `https://api.spoonacular.com/recipes/complexSearch?query=pasta&apiKey=${API_KEY}`
 
   //state recipes
